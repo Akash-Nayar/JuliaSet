@@ -10,7 +10,7 @@ The GUI looks like this:
 The first two sliders on the right simply determine the x and y components of the complex number C, which essentially determines the nature of the fractal.
 The two text-boxes directly under the "Generate" button are simply to view the values of the x and y variance sliders.
 
-Next, the one can adjust the color range of the fractal image using the Maximum and Minimum Color sliders. This basically sets the rangle of colors the escaping coordinates should be painted, those which escaped quicker would be closer to the "Maximum" color and visa versa for the slower-escaping coordinates.
+Next, one can adjust the color range of the fractal image using the Maximum and Minimum Color sliders. This basically sets the rangle of colors the escaping coordinates should be painted, those which escaped quicker would be closer to the "Maximum" color and visa versa for the slower-escaping coordinates.
 
 The zoom slider towards the bottom simply allows for zooming into the image to admire the fractals.
 
